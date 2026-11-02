@@ -1,0 +1,10 @@
+{
+  "description": "وب‌سایت کلینیک دندان‌پزشکی لبخند خدمات، پزشکان و نظرات بیماران را معرفی می‌کند و با فرم آنلاین، رزرو نوبت را برای بیماران آسان می‌سازد.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
